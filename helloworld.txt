@@ -1,2 +1,3 @@
 Adding a line to test git staging
 - repeating staging and pushing process to practise
+- adding another line to test commit message editor
