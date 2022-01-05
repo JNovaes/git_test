@@ -1,1 +1,2 @@
 Adding a line to test git staging
+- repeating staging and pushing process to practise
